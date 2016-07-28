@@ -1,0 +1,37 @@
+{
+  "name": "fisp-parser-rem",
+  "version": "0.1.2",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "rem-core": "0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node ./spec/test/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neverland/fisp-parser-rem.git"
+  },
+  "keywords": [
+    "rem",
+    "px to rem",
+    "px2rem",
+    "fis rem",
+    "fisp rem",
+    "fisp px2rem",
+    "fisp px to rem"
+  ],
+  "author": [
+    {
+      "name": "ienix",
+      "email": "ienix@foxmail.com"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Neverland/fisp-parser-rem/issues"
+  },
+  "homepage": "https://github.com/Neverland/fisp-parser-rem#readme"
+}
